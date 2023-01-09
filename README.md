@@ -1,0 +1,2 @@
+# journal
+Simple journal keeper
